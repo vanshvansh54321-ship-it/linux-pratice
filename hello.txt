@@ -1,0 +1,2 @@
+Hello from ubuntu
+this is my first file
